@@ -18,9 +18,12 @@
       not included in web.xml will be loaded after filters listed below.
     -->
     <!-- [START welcome] -->
+    
+
     <welcome-file-list>
-        <welcome-file>/</welcome-file>
-    </welcome-file-list>
+         <welcome-file>index.html</welcome-file>
+ </welcome-file-list>
+
     <!-- [END welcome] -->
     <!-- [START config] -->
     <!-- [END config] -->
